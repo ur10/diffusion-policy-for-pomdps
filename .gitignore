@@ -1,0 +1,17 @@
+# checkpoints, datasets, logs — kept out of the repo
+*.pt
+*.pth
+*.ckpt
+*.hdf5
+*.zarr
+*.npz
+wandb/
+outputs/
+buffers/
+replays_frames/
+*_videos/
+eval_video*/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
